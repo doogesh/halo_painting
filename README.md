@@ -1,7 +1,7 @@
 # halo_painting
 **Predicts 3D halo distributions from dark matter simulations using a physically motivated Wasserstein mapping network**
 
-#### The network architecture, training methodology and results are detailed in:**  
+#### The network architecture, training methodology and results are detailed in:  
 "*Painting halos from 3D dark matter fields using Wasserstein mapping networks*,"  
 Doogesh Kodi Ramanah, Tom Charnock, Guilhem Lavaux [[arXiv:1903.10524]](https://arxiv.org/abs/1903.10524)
 
